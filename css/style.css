@@ -17,6 +17,21 @@ table{
 }
 
 .first-row{
+    border: 0;
     background-color: blue;
+    height: 10px;
+    width: auto;
 }
 
+.table-row{
+    background-color: aqua;
+}
+
+#image1{
+    background-image:(url(../img/monitor.jpg));
+    background-size: auto;
+}
+
+#image2{
+    background-image:(url(../img/graph.jpg));
+}

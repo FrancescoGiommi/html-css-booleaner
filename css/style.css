@@ -56,4 +56,7 @@ table{
     height: 100px;
     width: 150px;
 }
-<table cellspacing="0" cellpadding="0">
+
+.images-suggest{
+    color: white;
+}

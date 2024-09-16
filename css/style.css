@@ -4,8 +4,14 @@ body{
 
 #Background-title{
     background-image: url(../img/pattern.png);
- width: 100px;
- height: 30px; 
+ width: auto;
+ height: 150px;
+ background-repeat: repeat; 
+ background-color: rgb(72, 150, 177);
+}
+
+#logo{
+    size
 }
 
 .Source{
@@ -28,10 +34,15 @@ table{
 }
 
 #image1{
-    background-image:(url(../img/monitor.jpg));
-    background-size: auto;
+    background-image: url(../img/monitor.jpg);
+    background-size: cover;
+    height: 100px;
+    width: 150px;
 }
 
 #image2{
-    background-image:(url(../img/graph.jpg));
+    background-image: url(../img/graph.jpg);
+    background-size: cover;
+    height: 100px;
+    width: 150px;
 }

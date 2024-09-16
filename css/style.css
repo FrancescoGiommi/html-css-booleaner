@@ -16,7 +16,7 @@ body{
 }
 
 .Source{
-    display: block;
+    display: block;S
     color: gray;
 }
 
@@ -41,6 +41,8 @@ table{
 
 .table-row{
     background-color: aqua;
+    width: auto;
+    height: 10px;
 }
 
 #image1{

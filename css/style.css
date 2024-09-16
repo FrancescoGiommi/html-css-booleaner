@@ -17,6 +17,15 @@ body{
 
 .Source{
     display: block;
+    color: gray;
+}
+
+#Author{
+    color: aqua;
+}
+
+.Photos{
+    display: block;  
 }
 
 table{ 
@@ -47,3 +56,4 @@ table{
     height: 100px;
     width: 150px;
 }
+<table cellspacing="0" cellpadding="0">
